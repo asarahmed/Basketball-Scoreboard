@@ -66,7 +66,6 @@
 
 ## Author
 
-- LinkedIn - [Iqra Zaheer](https://www.linkedin.com/in/iqra-zaheer-45bb42231/)
-- Github - [@iqra0001](https://github.com/iqra0001)
-- Frontend Mentor - [@iqra0001](https://www.frontendmentor.io/profile/iqra0001)
-- Instagram - [Iqra Zaheer](https://www.instagram.com/iqraaa0001/)
+- LinkedIn - [AhmedAsar(https://www.linkedin.com/in/ahmed-asar-594353290/)
+- GitHub - [asarahmed]((https://github.com/asarahmed)https://github.com/asarahmed)
+
