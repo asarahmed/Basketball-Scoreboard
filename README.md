@@ -31,7 +31,7 @@
 
 ### Links
 
-- [Live 🔗](https://iqra0001.github.io/Basketball-Scoreboard/)
+- [Live 🔗](https://asarahmed.github.io/Basketball-Scoreboard/)
 
 ## My process
 
